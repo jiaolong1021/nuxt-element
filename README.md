@@ -1,2 +1,1 @@
 # nuxt-element
-# nuxt-element

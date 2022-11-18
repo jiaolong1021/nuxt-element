@@ -25,11 +25,11 @@
     "koa-router": "^7.4.0",
     "koa-validate": "^1.0.7",
     "node-sass": "^4.12.0",
-    "nuxt": "^2.8.1",
+    "nuxt": "^2.15.8",
     "path-to-regexp": "^3.0.0",
     "qs": "^6.7.0",
     "sass-loader": "^7.1.0",
-    "svg-sprite-loader": "^4.1.6",
+    "svg-sprite-loader": "^6.0.11",
     "vue-cookie": "^1.1.4"
   },
   "devDependencies": {
